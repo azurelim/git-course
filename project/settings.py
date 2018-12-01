@@ -26,7 +26,8 @@ SECRET_KEY = 'acfruijrsy8_7+s9mjwc8(2*%z+9dr_wy)#h-@!m%9g+$o#4md'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'is.nusa.net.id'
+    'is.nusa.net.id',
+    '127.0.0.1'
 ]
 
 
