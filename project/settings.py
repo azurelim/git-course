@@ -25,7 +25,9 @@ SECRET_KEY = 'acfruijrsy8_7+s9mjwc8(2*%z+9dr_wy)#h-@!m%9g+$o#4md'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'is.nusa.net.id'
+]
 
 
 # Application definition
